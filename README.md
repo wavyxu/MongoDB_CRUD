@@ -1,7 +1,10 @@
 # MongoDB-CRUD
-Create a database and popular a collection. </br>
-Generate a fair amount of data for this database with Facker. </br>
-Retrieve data from this database and display it with a mix of read, write, aggregate operations.</br>
+
+## Features
+
+- Create a database and popular a collection. </br>
+- Generate a fair amount of data for this database with Facker. </br>
+- Retrieve data from this database and display it with a mix of read, write, aggregate operations.</br>
 
 ## How to run:<br>
   1.Run "brew services start mongodb" from the system command line<br>
