@@ -1,5 +1,7 @@
 # MongoDB-CRUD
 
+This is my practice of basic CRUD operations on MongoDB
+
 ## Features
 
 - Create a database and popular a collection. </br>
